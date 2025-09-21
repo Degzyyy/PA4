@@ -1,7 +1,3 @@
-Perfect 🚀 Here’s your **final PA4 README.md** with everything combined and polished:
-
----
-
 # 📘 PA 4 – Programming Assignment
 
 👨‍💻 Author: Joshua Carl de Guzman <br>
