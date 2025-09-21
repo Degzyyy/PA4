@@ -180,7 +180,8 @@ plt.show()
 2. **By Gender** – Compares average grades between Male and Female students.
 3. **By Hometown** – Compares performance of students from Luzon, Visayas, and Mindanao.
 
-*(Insert screenshot of the three bar plots here in your README file.)*
+<img width="1102" height="363" alt="image" src="https://github.com/user-attachments/assets/12e02ce0-f851-4151-b210-c71b9e481f9b" />
+
 
 ---
 
