@@ -187,6 +187,4 @@ plt.show()
 * **Gender**: Both genders show nearly equal performance, though slight variations may exist.
 * **Hometown**: Students from different regions show small but visible differences in their average scores.
 
-👉 Overall, the visualization shows that **Track** and **Hometown** appear to contribute slightly more than Gender to variations in average grades.
-
 ---
