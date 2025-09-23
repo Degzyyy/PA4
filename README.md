@@ -30,7 +30,7 @@
 # 📌 Version History
 
 * **V1.0 (\[09-21-2025])** – Initial Release and Submission of GitHub Link
-* **V1.1 (\[09-21-2025])** – Edited Documentation in the README File and Improved Code Formatting
+* **V1.1 (\[09-23-2025])** – Edited Documentation in the README File and Improved Code Formatting
 
 ---
 
